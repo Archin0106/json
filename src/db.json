@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "value": "do homeWork",
+      "label": "1"
+    },
+    {
+      "value": "do classwork",
+      "label": "2"
+    },
+    {
+      "value": "play football",
+      "label": "3"
+    }
+  ]
+}
